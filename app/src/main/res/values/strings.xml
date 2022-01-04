@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Today_Line</string>
+
+    <string name="btn_list">목록 열기</string>
+
+
+
+    <string name="text_tweather">오늘의 날씨</string>
+</resources>
