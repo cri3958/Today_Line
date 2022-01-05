@@ -14,5 +14,13 @@ class ListActivity : AppCompatActivity() {
 
         recyclerView.adapter = ListAdapter
 
+
+
     }
+
+    fun Checkeddbfile():Boolean{
+        val am = assets
+        val folderPath = "/data/data"+Fold
+    }
+
 }
